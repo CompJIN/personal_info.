@@ -10,7 +10,7 @@
 </div>
 
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/CompJIN/count.svg)
 
 
 

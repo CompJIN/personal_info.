@@ -1,4 +1,3 @@
-# personal_info.
 <div id="title" align=center>
   
 ![](https://cdn.luogu.com.cn/upload/image_hosting/p6ztii1a.png)

@@ -9,7 +9,6 @@
 
 </div>
 
-![](https://cdn.luogu.com.cn/upload/image_hosting/p6ztii1a.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
